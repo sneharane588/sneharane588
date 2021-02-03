@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![](https://i9.ytimg.com/vi_webp/5qh2rKt0xG8/mqdefault.webp?time=1612357500000&sqp=CPy-6oAG&rs=AOn4CLBVVPjZ_8Tw9gdj4B8u8LjBXnl4AQ)](https://youtu.be/5qh2rKt0xG8)
 
 
-
-[![videoCV](https://i9.ytimg.com/vi_webp/5qh2rKt0xG8/mqdefault.webp?time=1607688900000&sqp=CMTFzf4F&rs=AOn4CLCxm9CIRIWsAxtPZ7GKhdG2R4iW-g)](https://youtu.be/5qh2rKt0xG8)
 
 <!--<div style="height: 0; padding-bottom: calc(63.55% + 35px); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/5fd354d1f480b700bcd2c147" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" width="100%"></iframe></div>-->
