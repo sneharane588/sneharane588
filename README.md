@@ -1,6 +1,6 @@
 ### Hi there 😃
 
-<h3 align="left">I'm Sneha, A passionate Data Science Practioner</h3>
+<h3 align="left">I'm Sneha, A passionate Data Science Practitioner</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneharane588&label=Profile%20views&color=0e75b6&style=flat" alt="sneharane588" /> </p>
 <!--!
 My Github Profile Visitor Counter (5th June 2021 Onwards...)<br/>
