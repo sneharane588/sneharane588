@@ -22,14 +22,20 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <p align="left"> <a href="https://twitter.com/983a454ccdb9444" target="blank"><img src="https://img.shields.io/twitter/follow/983a454ccdb9444?logo=twitter&style=for-the-badge" alt="983a454ccdb9444" /></a> </p>-->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sneharane588&show_icons=true&locale=en" alt="sneharane588" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneharane588&" alt="sneharane588" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneharane588&stroke=DD2727" alt="sneharane588" /></p>
+<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sneharane588&theme=soft-green&stroke=DD2727)](https://git.io/streak-stats)
+-->
 
+<!--
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sneharane588&)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sneha-rane-822959182/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo-2003.jpg" alt="983a454ccdb9444" height="50" width="80" /></a>  
-<a href="https://www.youtube.com/channel/UC-_lLacP1Tic8gE4KENs6SQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png" alt="sneha rane" height="25" width="80" /></a>
+<a href="https://www.linkedin.com/in/sneha-rane-822959182/" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-linkedin-icon-flat-icon-linkedin-png-social-icon-png-11.png" alt="983a454ccdb9444" height="30" width="40" /></a>  
+<a href="https://www.youtube.com/channel/UC-_lLacP1Tic8gE4KENs6SQ" target="blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" alt="sneha rane" height="30" width="40" /></a>
 </p>
 
 
