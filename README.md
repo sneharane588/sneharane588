@@ -14,6 +14,19 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
 
+<h2>This is me in short:<br/></h2>
+
+I enjoy Python, Java, Exploratory Data Analysis, Visualization, OpenCV. I'm currently working as a Software Developer - Data Science where I'm a part of the Data Science Team. I try whatever I contribute is more interactive to the viewer because that's the special thing about Data.<br/>
+
+<p style="color:red;">Go through my resume to get a better picture of me >>>   
+<a style="margin:auto; padding: 15px;" href="https://github.com/sneharane588/sneharane588/blob/master/SnehaRaneResume.pdf" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/resume-icon-png-5.png" alt="Resume Vector Icon" height="50" width="50"/></a></p>
+
+<h2>Key Responsibilities at Previous roles:<br/></h2>
+
+I previously worked as a Data Science Intern where my work was based on Data Science using Python, The projects involving understanding the data, preparing the data for analysis, performing data analysis, creating meaningful data visualizations, performing the classifications and generating pdf reports of visualization using Pure Python and Jupyter Notebook. This sharpened my skills in Data Understanding, exploration, Data cleaning, Data preprocessing, Data Visualization and ML classification models. Other internship tasks were based on modules such as Data Quality Assessment, Data Insights and preparation of related reports and presentations.
+Also worked as a Data science fellow where I created attractive and descriptive dashboards with various meaningful charts using MS Excel.</br>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneharane588&show_icons=true&locale=en&layout=compact" alt="sneharane588" /></p>
 <br/><br/><br/><br/><br/><br/><br/>
 
@@ -34,7 +47,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sneha-rane-822959182/" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-linkedin-icon-flat-icon-linkedin-png-social-icon-png-11.png" alt="983a454ccdb9444" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/sneha-rane-822959182/" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-linkedin-icon-flat-icon-linkedin-png-social-icon-png-11.png" alt="983a454ccdb9444" height="34" width="40" /></a>  
 <a href="https://www.youtube.com/channel/UC-_lLacP1Tic8gE4KENs6SQ" target="blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" alt="sneha rane" height="30" width="40" /></a>
 </p>
 
