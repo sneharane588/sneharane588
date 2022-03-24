@@ -16,7 +16,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <h2>This is me in short:<br/></h2>
 
-I enjoy Python, Java, Exploratory Data Analysis, Visualization, OpenCV. I'm currently working as a Software Developer - Data Science where I'm a part of the Data Science Team. I try whatever I contribute is more interactive to the viewer because that's the special thing about Data.<br/>
+I enjoy Python, Exploratory Data Analysis, Visualization, OpenCV. I'm currently working as a Software Developer - Data Science where I'm a part of the Data Science Team. I try whatever I contribute is more interactive to the viewer because that's the special thing about Data.<br/>
 
 <!--
 <p style="color:red;">Go through my resume to get a better picture of me >>>   
@@ -25,7 +25,7 @@ I enjoy Python, Java, Exploratory Data Analysis, Visualization, OpenCV. I'm curr
 
 <h2>Key Responsibilities:<br/></h2>
 
-I worked as a Data Science Intern where my work was based on Data Science using Python, The projects involving understanding the data, preparing the data for analysis, performing data analysis, creating meaningful data visualizations, performing the classifications and generating pdf reports of visualization using Pure Python and Jupyter Notebook. This sharpened my skills in Data Understanding, exploration, Data cleaning, Data preprocessing, Data Visualization and ML classification models. Other internship tasks were based on modules such as Data Quality Assessment, Data Insights and preparation of related reports and presentations.
+I'm currenlty working as Associate Engineer, also previously worked as a Data Science Intern where my work was based on Data Science using Python, The projects involving understanding the data, preparing the data for analysis, performing data analysis, creating meaningful data visualizations, performing the classifications and generating pdf reports of visualization using Pure Python and Jupyter Notebook. This sharpened my skills in Data Understanding, exploration, Data cleaning, Data preprocessing, Data Visualization and ML classification models. Other internship tasks were based on modules such as Data Quality Assessment, Data Insights and preparation of related reports and presentations.
 Also worked as a Data science fellow where I created attractive and descriptive dashboards with various meaningful charts using MS Excel.</br>
 
 
